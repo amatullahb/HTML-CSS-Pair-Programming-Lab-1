@@ -4,6 +4,7 @@ body {
     font-family:  'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: #3d3d3d;
     margin: 0;
+    line-height: 1.5;
 }
 .grid {
     height: 100vh;
