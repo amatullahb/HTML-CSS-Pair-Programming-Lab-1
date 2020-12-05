@@ -9,7 +9,7 @@ You will pair program with a partner to complete this assignemnt. One partner, t
 ## Steps
 1. Create the header and footer for the webpage.
 2. Display the main content (left side of mock up) on the webpage
-3. Display the Sidebar conent on the webpage
+3. Display the Sidebar content on the webpage
 4. The page should have the correct coloring
 5. Convert main content to a 2 column layout 
 6. The page should have the correct spacing
